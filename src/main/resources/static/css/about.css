@@ -129,6 +129,8 @@ footer {
   padding-left: 200px;
   padding-right: 200px;
   margin: auto;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 footer h1 {
   font-size: 36px;
